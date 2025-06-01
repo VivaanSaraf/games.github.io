@@ -3,6 +3,17 @@
 <head>
 </head>
 <body>
-<iframe> https:​/​/​games.poki.com/​458768/​8f32b0d9-7c3a-48e2-a8ab-22189e4b16e5?​tag=pg-8d514eaaa90d68fd195c3ae42688aa16ef89ee8d&​site_id=3&​iso_lang=en&​country=IN&​poki_url=https:​/​/​poki.com/​en/​g/​cow-bay&​hoist=yes&​nonPersonalized=n&​cloudsavegames=n&​familyFriendly=n&​categories=4,37,64,67,69,91,118,1014,1122,1187,1205 </iframe>
+<iframe
+  id="game-element"
+  allowfullscreen="true"
+  allow="autoplay; fullscreen; camera; focus-without-user-activation *; monetization; gamepad; keyboard-map *; xr-spatial-tracking; clipboard-write; web-share; accelerometer; magnetometer; gyroscope; display-capture"
+  name="gameFrame"
+  scrolling="no"
+  sandbox="allow-forms allow-modals allow-orientation-lock allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-presentation allow-scripts allow-same-origin allow-downloads"
+  src="https://games.poki.com/458768/8f32b0d9-7c3a-48e2-a8ab-22189e4b16e5?tag=pg-8d514eaaa90d68fd195c3ae42688aa16ef89ee8d&site_id=3&iso_lang=en&country=IN&poki_url=https://poki.com/en/g/cow-bay&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=4,37,64,67,69,91,118,1014,1122,1187,1205"
+  title="Game"
+  class="Clsn52HE2ZzhoBMbiAF6"
+  style="width: 100%; height: 600px; border: none;">
+</iframe>
 </body>
 </html>
